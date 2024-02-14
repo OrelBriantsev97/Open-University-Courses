@@ -1,8 +1,9 @@
 Maman 11
 
-**Queation 1**
+#**Queation 1**
 
-implementing function void contract (char s1[],char s2[])
+#implementing function void contract (char s1[],char s2[])
+
 function gets string s1 and return a shorten version of s1 as s2.
 each sequence of chars with follow ASCII code will be shorten to a 3 chars : 
 first char " - " and the last char 
