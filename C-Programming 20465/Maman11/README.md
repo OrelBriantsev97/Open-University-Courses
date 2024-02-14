@@ -1,6 +1,6 @@
 **Maman 11**
 
- - Queation 1
+Queation 1
 
 implementing function void contract (char s1[],char s2[])
 function gets string s1 and return a shorten version of s1 as s2.
