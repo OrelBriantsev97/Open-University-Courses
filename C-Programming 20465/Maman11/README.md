@@ -17,7 +17,12 @@ examples :
  a-f#LL-N 6-90-3#H-KM-Op-u(?@AB,1124-8)
 
 
-**Question 2**
+*Question 2*
 
+program that checks if the brickets are balanced in a given C-like test.
+examples:
+- sequence ([)] is not balanced
+- sequence [()] is not balanced
+- sequence  ([]) is not balanced
 
-
+the program check in each line if the number of (),[],{}
