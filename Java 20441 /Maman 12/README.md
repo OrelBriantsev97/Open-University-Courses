@@ -25,7 +25,7 @@ RectangleA have the following private attributes :
 - int _width - rectangle's width
 - int _height - rectangle's height
 - Point _pointSW - the most south west point in the rectangle
-- 
+
 also , RectangleA have constractors and method as requested in the assignment 
 </samp>
 
