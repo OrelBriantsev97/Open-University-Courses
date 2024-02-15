@@ -27,5 +27,20 @@ RectangleA have the following private attributes :
 - Point _pointSW - the most south west point in the rectangle
 
 also , RectangleA have constractors and method as requested in the assignment 
+
+
+###  <h5>Questions 3 </h5>
+
+build a class called RectangleB
+
+RectangleB represent a rectangle with edges parallel to axis
+
+RectangleB have the following private attributes :
+
+- Point _pointSW - the most south west point in the rectangle
+- Point _pointNE - the most north east point in the rectangle
+
+also , RectangleB have constractors and method as requested in the assignment 
 </samp>
+
 
