@@ -14,3 +14,5 @@ number of guesses will be presented when game completed.
 JavaFX application that present 10 random shapes with random attributes.
 shapes are squares , lines and ellipses , attribues are colors and dimentions.
 
+</samp>
+
