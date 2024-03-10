@@ -9,4 +9,4 @@ Create a class called Polynom,add relevent constractors and methods according co
 ###  <h5>Questions 2 </h5>
 create a class called BankAccount, add required abstract class and methods according course booklet
 
-
+</samp>
